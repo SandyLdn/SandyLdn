@@ -22,11 +22,8 @@ Hello, I'm Sandra. A Junior Networking and Computer Systems Technician. My exper
 | x                     | x                               | x               | x                | NAT                      |
 | x                     | x                               | x               | x                | x                      |
 | x                     | x                               | x               | x                | x                      |
+<br>
 
-
-<br>
-<br>
-<br>
 <h2>Networking and Computer Systems Projects:</h2>
 
 In this portfolio you will find a collection of my projects, labs, relevant coursework and other work that highlights my dedication towards network and systems administration, and continuous learning. 
