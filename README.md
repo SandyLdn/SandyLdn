@@ -3,6 +3,10 @@ Hello, I'm Sandra. A Junior Networking and Computer Systems Technician. My exper
 
 <h2>Skills:</h2>
 
+Networking principles, Programming/Scripting languages, Cloud Computing, Cyber Security, Networking Frameworks and Protocols
+
+- [Skills Table] (https://github.com/SandyLdn/Skills/tree/main)
+
 | Networking Principles | Programming/Scripting languages | Cloud Computing | CyberSecurity    | Frameworks & Protocols |
 | :---                  | :-                            | :---            | :---             | :---                   |
 | LAN                   | Python                          | Microsoft Azure | Defense in depth | OSI model              |
