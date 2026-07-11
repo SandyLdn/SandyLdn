@@ -1,5 +1,5 @@
-## 👋 Sandra Networking & Computer Systems Professional Portfolio
-Hello, I'm Sandra. A Junior Networking and Computer Systems Technician.<br> 
+## 👋 Sandra - Networking & Computer Systems Professional Portfolio
+Junior Networking and Computer Systems Technician.<br> 
 👷‍♀️ <br>My experience focuses on Information Technology Administration, on Windows and Linux Operating Systems, on and off premises: installing, configuring and maintaining computer hardware and software infrastructure.<br>
 🎓<br>Currently, I am advancing my skills as a Cloud and Network Engineering student at Western Governors University, having graduated from Seneca Polytechnic.
 
