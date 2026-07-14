@@ -18,6 +18,7 @@ Overview of skills:
 
 In this portfolio you will find a collection of my projects, labs, relevant coursework and other work that highlights my dedication towards network and systems administration, and continuous learning in an ever-changing IT landscpe: 
 
+- [Computer Network Architecture and Design using Cisco Packet Tracer](https://github.com/SandyLdn/LANconfig/blob/443656a29bdcfc5506689c0630dc199abb034c5d/README.md)
 <!---<h2>Target Roles:</h2>
 IT Support Technician
 Service Desk Analyst
