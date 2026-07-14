@@ -16,9 +16,19 @@ Overview of skills:
 
 <h2> 👩‍💻 Networking and Computer Systems Projects:</h2>
 
-In this portfolio you will find a collection of my projects, labs, relevant coursework and other work that highlights my dedication towards network and systems administration, and continuous learning in an ever-changing IT landscpe: 
+In this portfolio you will find a collection of my projects, labs, relevant coursework and other work that highlights my dedication towards network and systems administration, and continuous learning in an ever-changing IT landscape: 
 
 - [Computer Network Architecture and Design using Cisco Packet Tracer](https://github.com/SandyLdn/LANconfig/blob/443656a29bdcfc5506689c0630dc199abb034c5d/README.md)
+
+<h2>Collaborations:</h2>
+
+- Link to [Python Port Scanner](https://github.com/OPS445-Students-Summer2025/OPS445NCC-S25-NCC-Group-7)
+  - Final semester group project demonstrating Python Scripting, Automation and Collaboration skills 
+  - Built a network port scanner that tested if named ports were open
+  - Enhanced Project Management skills satisfying a provided rubric of requirements
+  - Affirmed effective collaboration and communicatio skills, ensuring aligned understanding, resolving any doubts and queries respectfully and quickly
+  - Grade A
+  
 <!---<h2>Target Roles:</h2>
 IT Support Technician
 Service Desk Analyst
