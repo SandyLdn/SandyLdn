@@ -26,7 +26,7 @@ In this portfolio you will find a collection of my projects, labs, relevant cour
   - Final semester group project demonstrating Python Scripting, Automation and Collaboration skills 
   - Built a network port scanner that tested if named ports were open
   - Enhanced Project Management skills satisfying a provided rubric of requirements
-  - Affirmed effective collaboration and communicatio skills, ensuring aligned understanding, resolving any doubts and queries respectfully and quickly
+  - Amplified effective collaboration and communication skills, ensuring aligned understanding, resolving any doubts and queries respectfully and quickly
   - Grade A
   
 <!---<h2>Target Roles:</h2>
