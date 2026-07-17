@@ -1,6 +1,6 @@
 ## 👋  Sandra - Networking & Computer Systems Professional Portfolio
 Junior Networking and Computer Systems Technician.<br> 
-👷‍♀️ <br>Hands-on experience focused on hybrid IT Administration, across Windows and Linux environments. Installing, configuring and maintaining both traditional on-premises hardware systems, as well as cloud environments.<br>
+👷‍♀️ <br>Hands-on experience focused on hybrid IT Administration, across Windows and Linux environments. Installing, configuring and maintaining both on-premise systems, as well as cloud environments.<br>
 🎓<br>Having graduated in Computer Networking at Seneca Polytechnic, I am currently pursuing a part-time degree in Cloud and Network Engineering.
 
 <h2> 🛠️ Skills:</h2>
